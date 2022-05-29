@@ -46,6 +46,9 @@ This project integrates yt-dlp, Aria2 + WebUI, qBittorrent + VueTorrent WebUI, p
  2. Fork this this repository, then click Setting on fork repository page and check Template repository.
  3. Click new button: Use this template，create a new repository。
  4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/bobby/green> to deploy.
+ 
+ #### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=[https://github.com/Strangelets/Heroku-AIO-APP-EX)))
 
 ## <a id="first"></a>First run
 
